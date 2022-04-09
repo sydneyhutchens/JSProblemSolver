@@ -1,0 +1,162 @@
+.header {
+    width: 550px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.bottom {   
+    position: absolute;
+    width: 550px;
+    bottom: 0px;
+}
+
+.moveButton {
+    font-weight: bold;
+    font-size: 1em;
+    background-color: SaddleBrown;
+    color: Moccasin;
+}
+
+.right {      
+    width: 250px;
+    position: absolute;
+    right: 20px;
+}
+
+ul {          
+    list-style-type: none;
+}
+
+li {          
+    margin-left: -40px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+}
+
+.left {
+    width: 250px;
+    position: absolute;
+    left: 20px;
+    background-color: Moccasin;
+}
+
+.outer {
+    position: absolute; 
+    width: 550px;
+    height: 575px;
+    border: 5px solid gray;
+    padding: 10px;
+    margin: 10px;
+    background-color: LightBlue;
+}
+
+.justifyText {
+    text-align: justify;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.largeBold {
+    font-size: large;
+    font-weight: bold;
+}
+
+.emphasized {
+    color: FireBrick;
+}
+
+.congratsHeader {
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.congratsPanel {
+    background-color: crimson;
+    width: 500px;
+    height: 650px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 25px;
+}
+
+.congratsText {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    position:relative;                  
+    margin-top: 300px;
+    text-align: center;
+}
+
+.problemUsing {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;                  
+    margin-top: 25px;
+    text-align: center; 
+}
+
+.movesText {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    position:absolute;                  
+    margin-top: 30px; 
+    margin-left: 255px;
+    text-align: center; 
+}
+
+.movesText2 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;                  
+    margin-top: 100px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.continueButton {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: blue;
+    position: absolute;
+    bottom: 50px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.quitButton {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: blue;
+    position: absolute;
+    bottom: 50px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.goalState {
+    width: 250px;
+    position: absolute;
+    margin-left: 125px;
+    background-color: Moccasin;
+    text-align: center;
+}
+
+.goodbyeText {
+    color: aqua;
+    font-size: 40px;
+    font-weight: bold;
+    position:relative;                  
+    margin-top: 300px;
+    text-align: center;
+}
